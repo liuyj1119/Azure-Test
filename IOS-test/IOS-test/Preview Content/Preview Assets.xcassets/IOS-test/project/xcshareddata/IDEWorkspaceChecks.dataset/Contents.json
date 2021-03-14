@@ -1,0 +1,25 @@
+{
+  "data" : [
+    {
+      "filename" : "IDEWorkspaceChecks.plist",
+      "idiom" : "universal"
+    },
+    {
+      "graphics-feature-set" : "apple7",
+      "idiom" : "universal"
+    },
+    {
+      "idiom" : "universal",
+      "memory" : "16GB"
+    },
+    {
+      "graphics-feature-set" : "apple7",
+      "idiom" : "universal",
+      "memory" : "16GB"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
